@@ -109,14 +109,19 @@ Système utilisé : Windows11
 
 ## Installation et Execution
 
-Installer les dépendances :
+- Installer les dépendances :
 
 ```bash
 pip install numpy pandas matplotlib jupyter
 
-Executer le script avec le notebook Jupyter:
+- Executer le script avec le notebook Jupyter:
 
 ```bash
 jupyter notebook code.ipynb
+
+- Accès au code
+
+Repository GitHub : https://github.com/lasimba/BlackBox-Optimization-BBOB
+DOI Zenodo : https://doi.org/10.5281/zenodo.19451846
 
 
