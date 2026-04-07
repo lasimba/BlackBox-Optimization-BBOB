@@ -1,0 +1,15 @@
+suite = 'bbob', funcId = 1, DIM = 2, Precision = 1.000e-08, algId = 'BIRMIN', coco_version = '', logger = 'bbob', data_format = 'bbob-new2'
+% BIRMIN: globally-biased, hybridized version of BIRECT by Paulavicius et al. as benchmarked by Jakub Kudela for the BBOB-2023 workshop
+data_f1/bbobexp_f1_DIM2_i1.dat, 1:100005|3.1e-11, 2:100006|1.1e-12, 3:100006|4.6e-12, 4:100004|6.1e-11, 5:100008|9.2e-13, 91:100007|6.5e-11, 92:100014|1.5e-08, 93:100002|3.5e-12, 94:100012|4.4e-06, 95:100007|1.8e-11, 96:100004|8.1e-13, 97:100002|2.4e-06, 98:100005|0.0e+00, 99:100021|1.2e-12, 100:100006|3.4e-13
+suite = 'bbob', funcId = 1, DIM = 3, Precision = 1.000e-08, algId = 'BIRMIN', coco_version = '', logger = 'bbob', data_format = 'bbob-new2'
+% BIRMIN: globally-biased, hybridized version of BIRECT by Paulavicius et al. as benchmarked by Jakub Kudela for the BBOB-2023 workshop
+data_f1/bbobexp_f1_DIM3_i1.dat, 1:150010|3.6e-12, 2:150020|2.6e-11, 3:150016|2.9e-11, 4:150002|2.6e-11, 5:150020|3.2e-11, 91:150010|4.5e-11, 92:150010|6.3e-05, 93:150012|1.5e-11, 94:150004|2.0e-10, 95:150014|3.4e-12, 96:150006|8.9e-12, 97:150004|7.1e-05, 98:150010|2.4e-12, 99:150020|1.3e-10, 100:150004|1.4e-14
+suite = 'bbob', funcId = 1, DIM = 5, Precision = 1.000e-08, algId = 'BIRMIN', coco_version = '', logger = 'bbob', data_format = 'bbob-new2'
+% BIRMIN: globally-biased, hybridized version of BIRECT by Paulavicius et al. as benchmarked by Jakub Kudela for the BBOB-2023 workshop
+data_f1/bbobexp_f1_DIM5_i1.dat, 1:250028|1.4e-10, 2:250024|1.8e-10, 3:250007|2.6e-10, 4:250002|1.1e-10, 5:250014|8.4e-11, 91:250008|8.4e-11, 92:250038|1.0e-10, 93:250014|7.2e-11, 94:250002|2.9e-10, 95:250014|4.7e-11, 96:250054|6.2e-11, 97:250030|1.9e-10, 98:250014|7.1e-11, 99:250048|8.2e-11, 100:250038|5.3e-11
+suite = 'bbob', funcId = 1, DIM = 10, Precision = 1.000e-08, algId = 'BIRMIN', coco_version = '', logger = 'bbob', data_format = 'bbob-new2'
+% BIRMIN: globally-biased, hybridized version of BIRECT by Paulavicius et al. as benchmarked by Jakub Kudela for the BBOB-2023 workshop
+data_f1/bbobexp_f1_DIM10_i1.dat, 1:500030|2.4e-10, 2:500016|1.8e-10, 3:500007|3.1e-11, 4:500022|2.8e-10, 5:500013|1.2e-10, 91:500048|7.9e-11, 92:500054|2.3e-10, 93:500006|1.6e-10, 94:500015|9.8e-11, 95:500001|2.0e-11, 96:500011|1.6e-10, 97:500057|1.6e-10, 98:500023|1.7e-11, 99:500022|3.6e-11, 100:500016|1.5e-10
+suite = 'bbob', funcId = 1, DIM = 20, Precision = 1.000e-08, algId = 'BIRMIN', coco_version = '', logger = 'bbob', data_format = 'bbob-new2'
+% BIRMIN: globally-biased, hybridized version of BIRECT by Paulavicius et al. as benchmarked by Jakub Kudela for the BBOB-2023 workshop
+data_f1/bbobexp_f1_DIM20_i1.dat, 1:1000037|2.8e-10, 2:1000025|2.8e-11, 3:1000010|9.9e-11, 4:1000014|1.1e-10, 5:1000031|1.2e-10, 91:1000063|5.4e-10, 92:1000011|8.9e-11, 93:1000013|1.4e-10, 94:1000030|1.6e-10, 95:1000006|2.5e-11, 96:1000004|1.5e-10, 97:1000024|8.3e-11, 98:1000019|3.2e-10, 99:1000075|1.0e-10, 100:1000006|3.6e-10

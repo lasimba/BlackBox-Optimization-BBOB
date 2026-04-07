@@ -1,0 +1,18 @@
+suite = 'bbob', funcId = 23, DIM = 2, Precision = 1.000e-08, algId = 'RS-3', coco_version = '2.2.1.170', logger = 'bbob', data_format = 'bbob-new2'
+% RS-3: RANDOMSEARCH sampling uniformly in [-3,3]^n as submitted to BBOB-2019 by Brockhoff and Hansen
+data_f23/bbobexp_f23_DIM2_i1.dat, 1:2000000|1.7e-02, 2:2000000|3.5e-02, 3:2000000|3.3e-02, 4:2000000|1.9e-02, 5:2000000|5.0e-02, 71:2000000|8.3e-02, 72:2000000|3.2e-02, 73:2000000|3.4e-02, 74:2000000|6.1e-02, 75:2000000|7.9e-02, 76:2000000|1.5e-02, 77:2000000|2.9e-02, 78:2000000|1.4e-02, 79:2000000|5.4e-02, 80:2000000|5.7e-02
+suite = 'bbob', funcId = 23, DIM = 3, Precision = 1.000e-08, algId = 'RS-3', coco_version = '2.2.1.170', logger = 'bbob', data_format = 'bbob-new2'
+% RS-3: RANDOMSEARCH sampling uniformly in [-3,3]^n as submitted to BBOB-2019 by Brockhoff and Hansen
+data_f23/bbobexp_f23_DIM3_i1.dat, 1:3000000|1.9e-01, 2:3000000|9.4e-02, 3:3000000|1.5e-01, 4:3000000|1.8e-01, 5:3000000|1.4e-01, 71:3000000|1.4e-01, 72:3000000|1.5e-01, 73:3000000|1.6e-01, 74:3000000|1.7e-01, 75:3000000|2.9e-02, 76:3000000|1.4e-01, 77:3000000|1.4e-01, 78:3000000|2.5e-01, 79:3000000|1.7e-01, 80:3000000|1.8e-01
+suite = 'bbob', funcId = 23, DIM = 5, Precision = 1.000e-08, algId = 'RS-3', coco_version = '2.2.1.170', logger = 'bbob', data_format = 'bbob-new2'
+% RS-3: RANDOMSEARCH sampling uniformly in [-3,3]^n as submitted to BBOB-2019 by Brockhoff and Hansen
+data_f23/bbobexp_f23_DIM5_i1.dat, 1:5000000|3.3e-01, 2:5000000|2.3e-01, 3:5000000|3.4e-01, 4:5000000|3.1e-01, 5:5000000|3.9e-01, 71:5000000|3.3e-01, 72:5000000|3.7e-01, 73:5000000|2.4e-01, 74:5000000|2.9e-01, 75:5000000|2.9e-01, 76:5000000|3.4e-01, 77:5000000|3.7e-01, 78:5000000|2.9e-01, 79:5000000|3.4e-01, 80:5000000|2.7e-01
+suite = 'bbob', funcId = 23, DIM = 10, Precision = 1.000e-08, algId = 'RS-3', coco_version = '2.2.1.170', logger = 'bbob', data_format = 'bbob-new2'
+% RS-3: RANDOMSEARCH sampling uniformly in [-3,3]^n as submitted to BBOB-2019 by Brockhoff and Hansen
+data_f23/bbobexp_f23_DIM10_i1.dat, 1:10000000|5.5e-01, 2:10000000|4.8e-01, 3:10000000|7.4e-01, 4:10000000|6.4e-01, 5:10000000|5.8e-01, 71:10000000|5.9e-01, 72:10000000|5.1e-01, 73:10000000|6.7e-01, 74:10000000|5.4e-01, 75:10000000|7.2e-01, 76:10000000|6.5e-01, 77:10000000|4.1e-01, 78:10000000|6.1e-01, 79:10000000|5.2e-01, 80:10000000|5.7e-01
+suite = 'bbob', funcId = 23, DIM = 20, Precision = 1.000e-08, algId = 'RS-3', coco_version = '2.2.1.170', logger = 'bbob', data_format = 'bbob-new2'
+% RS-3: RANDOMSEARCH sampling uniformly in [-3,3]^n as submitted to BBOB-2019 by Brockhoff and Hansen
+data_f23/bbobexp_f23_DIM20_i1.dat, 1:20000000|1.2e+00, 2:20000000|8.9e-01, 3:20000000|1.0e+00, 4:20000000|1.0e+00, 5:20000000|1.1e+00, 71:20000000|1.0e+00, 72:20000000|9.0e-01, 73:20000000|1.2e+00, 74:20000000|1.2e+00, 75:20000000|1.2e+00, 76:20000000|1.3e+00, 77:20000000|1.0e+00, 78:20000000|1.3e+00, 79:20000000|1.1e+00, 80:20000000|1.0e+00
+suite = 'bbob', funcId = 23, DIM = 40, Precision = 1.000e-08, algId = 'RS-3', coco_version = '2.2.1.170', logger = 'bbob', data_format = 'bbob-new2'
+% RS-3: RANDOMSEARCH sampling uniformly in [-3,3]^n as submitted to BBOB-2019 by Brockhoff and Hansen
+data_f23/bbobexp_f23_DIM40_i1.dat, 1:40000000|2.1e+00, 2:40000000|2.2e+00, 3:40000000|1.9e+00, 4:40000000|2.0e+00, 5:40000000|1.9e+00, 71:40000000|2.1e+00, 72:40000000|1.9e+00, 73:40000000|1.9e+00, 74:40000000|2.1e+00, 75:40000000|2.0e+00, 76:40000000|1.7e+00, 77:40000000|2.2e+00, 78:40000000|2.1e+00, 79:40000000|2.3e+00, 80:40000000|2.3e+00

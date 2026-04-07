@@ -1,0 +1,18 @@
+suite = 'bbob', funcId = 24, DIM = 2, Precision = 1.000e-08, algId = 'RANDOMSEARCH-5', coco_version = ''
+% Random search, performed for 1e7 times dimension (D) many function evaluations uniformly sampled within [-5,5]^D
+data_f24/bbobexp_f24_DIM2_i1.dat, 1:20000000|2.6e-02, 2:20000000|1.8e-02, 3:20000000|6.2e-03, 4:20000000|4.7e-02, 5:20000000|1.5e-03, 61:20000000|1.4e-02, 62:20000000|1.6e-02, 63:20000000|2.8e-02, 64:20000000|1.5e-02, 65:20000000|1.1e-02, 66:20000000|1.5e-02, 67:20000000|2.0e-02, 68:20000000|6.5e-03, 69:20000000|3.9e-02, 70:20000000|2.9e-02
+suite = 'bbob', funcId = 24, DIM = 3, Precision = 1.000e-08, algId = 'RANDOMSEARCH-5', coco_version = ''
+% Random search, performed for 1e7 times dimension (D) many function evaluations uniformly sampled within [-5,5]^D
+data_f24/bbobexp_f24_DIM3_i1.dat, 1:30000000|4.4e-01, 2:30000000|9.8e-01, 3:30000000|4.3e-01, 4:30000000|1.0e-01, 5:30000000|3.0e-01, 61:30000000|4.3e-01, 62:30000000|4.7e-01, 63:30000000|3.1e-01, 64:30000000|5.8e-01, 65:30000000|5.2e-01, 66:30000000|3.9e-01, 67:30000000|7.8e-01, 68:30000000|1.8e-01, 69:30000000|4.2e-01, 70:30000000|5.2e-01
+suite = 'bbob', funcId = 24, DIM = 5, Precision = 1.000e-08, algId = 'RANDOMSEARCH-5', coco_version = ''
+% Random search, performed for 1e7 times dimension (D) many function evaluations uniformly sampled within [-5,5]^D
+data_f24/bbobexp_f24_DIM5_i1.dat, 1:50000000|6.6e+00, 2:50000000|5.9e+00, 3:50000000|3.0e+00, 4:50000000|6.2e+00, 5:50000000|4.8e+00, 61:50000000|5.8e+00, 62:50000000|5.4e+00, 63:50000000|5.6e+00, 64:50000000|3.9e+00, 65:50000000|8.6e+00, 66:50000000|5.8e+00, 67:50000000|7.1e+00, 68:50000000|5.9e+00, 69:50000000|4.6e+00, 70:50000000|5.9e+00
+suite = 'bbob', funcId = 24, DIM = 10, Precision = 1.000e-08, algId = 'RANDOMSEARCH-5', coco_version = ''
+% Random search, performed for 1e7 times dimension (D) many function evaluations uniformly sampled within [-5,5]^D
+data_f24/bbobexp_f24_DIM10_i1.dat, 1:100000000|5.6e+01, 2:100000000|4.8e+01, 3:100000000|6.0e+01, 4:100000000|5.9e+01, 5:100000000|5.2e+01, 61:100000000|5.2e+01, 62:100000000|5.0e+01, 63:100000000|5.7e+01, 64:100000000|4.1e+01, 65:100000000|5.3e+01, 66:100000000|5.9e+01, 67:100000000|5.5e+01, 68:100000000|4.2e+01, 69:100000000|5.0e+01, 70:100000000|5.7e+01
+suite = 'bbob', funcId = 24, DIM = 20, Precision = 1.000e-08, algId = 'RANDOMSEARCH-5', coco_version = ''
+% Random search, performed for 1e7 times dimension (D) many function evaluations uniformly sampled within [-5,5]^D
+data_f24/bbobexp_f24_DIM20_i1.dat, 1:200000000|2.3e+02, 2:200000000|2.2e+02, 3:200000000|2.4e+02, 4:200000000|2.3e+02, 5:200000000|2.4e+02, 61:200000000|2.3e+02, 62:200000000|2.5e+02, 63:200000000|2.3e+02, 64:200000000|2.3e+02, 65:200000000|2.1e+02, 66:200000000|2.3e+02, 67:200000000|2.1e+02, 68:200000000|2.3e+02, 69:200000000|2.3e+02, 70:200000000|2.1e+02
+suite = 'bbob', funcId = 24, DIM = 40, Precision = 1.000e-08, algId = 'RANDOMSEARCH-5', coco_version = ''
+% Random search, performed for 1e7 times dimension (D) many function evaluations uniformly sampled within [-5,5]^D
+data_f24/bbobexp_f24_DIM40_i1.dat, 1:400000000|7.0e+02, 2:400000000|7.5e+02, 3:400000000|7.0e+02, 4:400000000|7.0e+02, 5:400000000|7.2e+02, 61:400000000|7.4e+02, 62:400000000|7.4e+02, 63:400000000|7.2e+02, 64:400000000|7.3e+02, 65:400000000|7.2e+02, 66:400000000|7.2e+02, 67:400000000|7.2e+02, 68:400000000|6.9e+02, 69:400000000|7.3e+02, 70:400000000|6.8e+02
